@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameClient</string>
+    <string name="title_activity_rest_user">RestUserActivity</string>
+</resources>
