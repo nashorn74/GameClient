@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\b383eb759bc87d470eee93b20f5542f14ff0c221\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_a4a310d1633e0e6495887257f4e36156ebbefe67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\ae7aa55d3172e78a4e30a1eb787154859619e80a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_cc46c5a8500b854a8408eef8d7170566a462b302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\4812a86f204ee5fe9fd52aa14d2035e15824af20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_1f4a4505c25b2c27c5a0b8898d67565ca1d6f4eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\ddfb4f6340bdd0e9fe162f8ec4f3017de30ec0f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_d6e3b1db728b39961c0c9443984d76394d554d2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\81f82888b70def5d587ed7aab768a8a3faccd207\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_99b0d0394e003ac37ecc148bf05f09867d872b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\c29f0a04fcb596d779b472aae7eb91ad17f5ff65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_c8c6b1e6519b72458cdbdef9f2b39857374d3159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\db5956e22d271c353ef74c342649d3df44d81d7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_0c70a433050e785c9a0e247ac0ff505f71091377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\e77a88313e618f3ef89b6750b9784d1257724054\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_6e08c20f68063478b0d98a3d55d43c1d6905cb6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\0f241b7aa6ad2596059b8eb23fd38af9f649a89e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_ef84cf0184e4c08af5c65fecfd83c872aa37c9d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\5cbcd43d0a0251f371b30646e55bfcdedf3e2958\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_cca673b86d8a77e976e5b7dd2721861f84bcb0a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\d17a0790fbb7e27d34d26457855c25b10c482472\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_13d8392ce7aa232ae34cb326ffc450623ebdeb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\819979280396b739825a8e48a8ab55206e17b212\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_c95af52d2ba74823d8c23e6d1b89a1da1aae1d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidSdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_516775f48f12852854a6a0e9a889f0ace3d15402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_067e61f07bb986aaca86f580994d0f3d09b2f694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\금호\.android\build-cache\d4b0b4b2b4201a6172974aef6e2242468dbf4436\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\work\GameClient\app\build\intermediates\pre-dexed\debug\classes_55f840cd8998d11dfadd6af9299a627f47492d0f.jar" />
+    </item>
+
+</items>
