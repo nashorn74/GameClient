@@ -39,12 +39,12 @@ public class RestEtcActivity extends AppCompatActivity {
             StringBuilder output = new StringBuilder();
             try {//통신 부분은 반드시 try-catch로 예외처리 해주어야 한다
                 URL url = new URL(params[0]);//전달받은 urlString으로 URL 객체 생성
+                Log.i("url", params[0]);
                 HttpURLConnection conn = (HttpURLConnection)url.openConnection();
                 if (conn != null) {
                     conn.setConnectTimeout(10000);
                     conn.setRequestMethod("GET");
-                    conn.setDoInput(true);
-                    conn.setDoOutput(true);
+                    conn.connect();
                     int resCode = conn.getResponseCode();
                     BufferedReader reader = new BufferedReader(
                             new InputStreamReader(conn.getInputStream()));
@@ -79,7 +79,7 @@ public class RestEtcActivity extends AppCompatActivity {
     }
 
     public void clickGetNoticeListButton(View view) {
-        new LoadJSON().execute("http://localhost:3000/notice/list");
+        new LoadJSON().execute("http://172.30.1.22:3000/notice/list?count=5&page=1");
     }
 
     public void clickAddVersionButton(View view) {
