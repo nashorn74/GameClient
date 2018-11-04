@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.mac.gameclient.MainActivity">
+    tools:context="com.nashorn.mac.gameclient.MainActivity">
     <Button
         android:id="@+id/rest_user_test_button"
         android:layout_width="match_parent"
@@ -30,4 +30,9 @@
         android:layout_height="wrap_content"
         android:text="MQTT - publish/subscribe"
         android:onClick="clickMqttPubSubTestButton"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="In App Purchase"
+        android:onClick="clickPurchaseTestButton"/>
 </LinearLayout>

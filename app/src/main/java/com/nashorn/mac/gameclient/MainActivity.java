@@ -1,4 +1,4 @@
-package com.example.mac.gameclient;
+package com.nashorn.mac.gameclient;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -32,6 +32,10 @@ public class MainActivity extends AppCompatActivity {
     public void clickMqttPubSubTestButton(View view) {
         //Toast.makeText(getBaseContext(), "MQTT - publish/subscribe", Toast.LENGTH_SHORT).show();
         Intent intent = new Intent(MainActivity.this, MqttPubSubActivity.class);
+        startActivity(intent);
+    }
+    public void clickPurchaseTestButton(View view) {
+        Intent intent = new Intent(MainActivity.this, InAppPurchaseActivity.class);
         startActivity(intent);
     }
 }

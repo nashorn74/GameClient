@@ -1,4 +1,4 @@
-package com.example.mac.gameclient;
+package com.nashorn.mac.gameclient;
 
 import org.junit.Test;
 

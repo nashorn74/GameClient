@@ -1,4 +1,4 @@
-package com.example.mac.gameclient;
+package com.nashorn.mac.gameclient;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
